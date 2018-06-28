@@ -10,3 +10,5 @@
 关键属性在于viewpaged要使用的: android:clipChildren="false"
 
 如果对你有所启发，请star下吧
+
+[我的博客](https://blog.csdn.net/leol_2/article/details/80840944)  
